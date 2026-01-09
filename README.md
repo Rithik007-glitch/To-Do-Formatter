@@ -14,3 +14,14 @@ A Python GUI-based To-Do application that:
 ## How to Run
 ```bash
 python app.py
+## System Requirements
+
+Python 3.x installed
+
+Python IDLE
+
+Internet connection
+
+GitHub account
+
+Web browser (Chrome / Edge / Firefox)
