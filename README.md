@@ -25,7 +25,7 @@ Internet connection
 
 Web browser (Chrome / Edge / Firefox)
 
-#▶ Steps to Run the Python Program
+## Steps to Run the Python Program
 
 Install Python 3.x on your system.
 (Download from https://www.python.org
