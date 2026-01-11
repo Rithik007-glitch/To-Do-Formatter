@@ -27,32 +27,32 @@ Web browser (Chrome / Edge / Firefox)
 
 ## Steps to Run the Python Program
 
-Install Python 3.x on your system.
+1.Install Python 3.x on your system.
 (Download from https://www.python.org
 )
 
-Open Python IDLE or any Python editor.
+2.Open Python IDLE or any Python editor.
 
-Download or copy the project file (app.py) from GitHub.
+3.Download or copy the project file (app.py) from GitHub.
 
-Save the file on your computer in any folder.
+4.Save the file on your computer in any folder.
 
-Open the file in Python IDLE.
+5.Open the file in Python IDLE.
 
-Click Run → Run Module
+6.Click Run → Run Module
 or press F5.
 
-The To-Do Formatter GUI window will appear.
+7.The To-Do Formatter GUI window will appear.
 
-Enter a task in the input box.
+8.Enter a task in the input box.
 
-Select the priority (High / Normal).
+9.Select the priority (High / Normal).
 
-Click Add Task to save the task.
+10.Click Add Task to save the task.
 
-Use Show All Tasks to view all tasks.
+11.Use Show All Tasks to view all tasks.
 
-Use Focus Mode to see only urgent and high-priority tasks.
+12.Use Focus Mode to see only urgent and high-priority tasks.
 
-Close the window to exit the program.
+13.Close the window to exit the program.
 
